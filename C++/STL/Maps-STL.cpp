@@ -15,10 +15,10 @@ int main()
     string s;
     map<string, int> m;
     map<string, int>::iterator it;
-    int t, val;
-    for(int i = 1; i <= T; i++){
-        cin >> t >> s;
 
+    for(int i = 1, t; i <= T; i++){
+        cin >> t >> s;
+        int val;
         switch(t)
         {
             case 1:
