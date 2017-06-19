@@ -10,7 +10,23 @@
 	Check out HackerRank's new format <a href="">here</a>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/06/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-000-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Language-C/C++/Python-orange.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-19/06/2017-brightgreen.svg">
 </p>
+
+
+## Algorithms ![AlgorithmsPoints]
+- [Warmup](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Warmup)
+- [Implementation](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Implementation)
+- [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Strings)
+- [Sorting](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Sorting)
+- [Search]()
+- [Graph Theory]()
+- [Greedy]()
+- [Dynamic Programming]()
+- [Constructive Algorithms]()
+- [Bit Manipulation]()
+- [Recursion]()
+- [Game Theory]()
+- [NP Complete]()
