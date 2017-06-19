@@ -38,11 +38,11 @@
 
 
 ### DataStructures
-- Arrays
+- [Arrays](https://github.com/MrinmoiHossain/HackerRank/tree/master/Data%20Structures/Arrays)
 - Linked Lists
 - Trees
 - Balanced Trees
-- Stacks
+- [Stacks](https://github.com/MrinmoiHossain/HackerRank/tree/master/Data%20Structures/Stacks)
 - Queues
 - Heap
 - Disjoint Set
@@ -62,19 +62,19 @@
 
 
 ## Tutorials
-### 30 Days of Code
+- [30 Days of Code](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges)
 ### Cracking the Coding Interview
 ### 10 Days of Statistics
 
 
 ## Languages
 ### C++
-- Introduction
-- Strings
-- Classes
-- STL
-- Inheritance
-- Other Concepts
+- [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Introduction)
+- [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Strings)
+- [Classes](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Classes)
+- [STL](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/STL)
+- [Inheritance](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Inheritance)
+- [Other Concepts]()
 ### Java 
 - Introduction
 - Strings
