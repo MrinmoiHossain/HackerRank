@@ -16,7 +16,10 @@
 </p>
 
 
-## Algorithms ![AlgorithmsPoints]
+
+
+
+## Algorithms
 - [Warmup](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Warmup)
 - [Implementation](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Implementation)
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Strings)
@@ -30,3 +33,18 @@
 - [Recursion]()
 - [Game Theory]()
 - [NP Complete]()
+
+
+
+## DataStructures
+- Arrays
+- Linked Lists
+- Trees
+- Balanced Trees
+- Stacks
+- Queues
+- Heap
+- Disjoint Set
+- Multiple Choice
+- Trie
+- Advanced
