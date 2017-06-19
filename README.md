@@ -19,7 +19,8 @@
 
 
 
-## Algorithms
+## Core CS
+### Algorithms
 - [Warmup](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Warmup)
 - [Implementation](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Implementation)
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Strings)
@@ -36,7 +37,7 @@
 
 
 
-## DataStructures
+### DataStructures
 - Arrays
 - Linked Lists
 - Trees
@@ -48,3 +49,19 @@
 - Multiple Choice
 - Trie
 - Advanced
+
+
+## Mathematics
+- Fundamentals
+- Number Theory
+- Combinatorics
+- Algebra
+- Geometry
+- Probability
+- Linear Algebra Foundations
+
+
+## Tutorials
+### 30 Days of Code
+### Cracking the Coding Interview
+### 10 Days of Statistics
