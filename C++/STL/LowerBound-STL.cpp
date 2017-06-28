@@ -16,8 +16,7 @@ int main()
 
     int q;
     cin >> q;
-    int y;
-    for(int i = 0; i < q; i++){
+    for(int i = 0, y; i < q; i++){
         cin >> y;
         vector<int>::iterator low = lower_bound(v.begin(), v.end(), y);
         int pos = low - v.begin();
