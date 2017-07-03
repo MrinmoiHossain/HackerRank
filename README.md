@@ -11,7 +11,7 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-000-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Language-C/C++/Python-orange.svg">
+	<img src="https://img.shields.io/badge/Language-C/C++/Python/Bash-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-19/06/2017-brightgreen.svg">
 </p>
 
@@ -106,3 +106,8 @@
 - Enumerables
 - Methods
 - Strings
+### Linux Shell
+- Bash
+- Text Processing
+- Arrays in Bash
+- Grep Sed Awk
