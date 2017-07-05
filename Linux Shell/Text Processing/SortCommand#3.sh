@@ -1,0 +1,3 @@
+#! HackerRank
+
+sort -n
