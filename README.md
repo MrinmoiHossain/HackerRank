@@ -7,7 +7,7 @@
     Solutions to problems on HackerRank.
 </p>
 <p align="center">
-	Check out HackerRank's new format <a href="">here</a>
+	You can follow me on HackerRank <a href="https://www.hackerrank.com/mokit_hossain201">here</a>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-000-brightgreen.svg">
