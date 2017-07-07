@@ -25,7 +25,7 @@
 - [Implementation](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Implementation)
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Strings)
 - [Sorting](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Sorting)
-- [Search]()
+- [Search](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Search)
 - [Graph Theory]()
 - [Greedy]()
 - [Dynamic Programming]()
@@ -74,7 +74,7 @@
 - [Classes](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Classes)
 - [STL](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/STL)
 - [Inheritance](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Inheritance)
-- [Other Concepts]()
+- [Other Concepts](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Other%20Concepts)
 ### Java 
 - Introduction
 - Strings
@@ -107,7 +107,7 @@
 - Methods
 - Strings
 ### Linux Shell
-- Bash
-- Text Processing
+- [Bash](https://github.com/MrinmoiHossain/HackerRank/tree/master/Linux%20Shell/Bash)
+- [Text Processing](https://github.com/MrinmoiHossain/HackerRank/tree/master/Linux%20Shell/Text%20Processing)
 - Arrays in Bash
 - Grep Sed Awk
