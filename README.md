@@ -11,7 +11,7 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-000-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Language-C/C++/Python/Bash-orange.svg">
+	<img src="https://img.shields.io/badge/Language-C/C++/Java/Bash-blue.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-19/06/2017-brightgreen.svg">
 </p>
 
@@ -76,8 +76,8 @@
 - [Inheritance](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Inheritance)
 - [Other Concepts](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Other%20Concepts)
 ### Java 
-- Introduction
-- Strings
+- [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Java/Introduction)
+- [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Java/Strings)
 - BigNumber
 - Data Structures
 - Object Oriented Programming
