@@ -63,8 +63,8 @@
 
 ## Tutorials
 - [30 Days of Code](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges)
+- [10 Days of Statistics](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics)
 ### Cracking the Coding Interview
-### 10 Days of Statistics
 
 
 ## Languages
@@ -78,11 +78,11 @@
 ### Java 
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Java/Introduction)
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Java/Strings)
-- BigNumber
-- Data Structures
-- Object Oriented Programming
-- Exception Handling
-- Advanced
+- [BigNumber]
+- [Data Structures]()
+- [Object Oriented Programming]()
+- [Exception Handling]()
+- [Advanced]()
 ### Python
 - Introduction
 - Classes
