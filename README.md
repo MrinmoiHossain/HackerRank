@@ -78,8 +78,8 @@
 ### Java 
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Java/Introduction)
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Java/Strings)
-- [BigNumber]
-- [Data Structures]()
+- [BigNumber](https://github.com/MrinmoiHossain/HackerRank/tree/master/Java/BigNumber)
+- [Data Structures](https://github.com/MrinmoiHossain/HackerRank/tree/master/Java/Data%20Structures)
 - [Object Oriented Programming]()
 - [Exception Handling]()
 - [Advanced]()
