@@ -51,7 +51,7 @@
 - Advanced
 
 
-## Mathematics
+### Mathematics
 - Fundamentals
 - Number Theory
 - Combinatorics
@@ -66,6 +66,13 @@
 - [10 Days of Statistics](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics)
 ### Cracking the Coding Interview
 
+## Specialized Skills
+### Artificial Intelligence
+### SQL
+### Databases Systems
+### Regex
+### Security
+
 
 ## Languages
 ### C++
@@ -75,6 +82,8 @@
 - [STL](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/STL)
 - [Inheritance](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Inheritance)
 - [Other Concepts](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Other%20Concepts)
+
+
 ### Java 
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Java/Introduction)
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Java/Strings)
@@ -83,6 +92,8 @@
 - [Object Oriented Programming]()
 - [Exception Handling]()
 - [Advanced]()
+
+
 ### Python
 - Introduction
 - Classes
@@ -99,6 +110,8 @@
 - Date and Time
 - Errors and Exceptions
 - Numpy
+
+
 ### Ruby
 - Introduction
 - Control Structures
@@ -106,8 +119,13 @@
 - Enumerables
 - Methods
 - Strings
+
+
 ### Linux Shell
 - [Bash](https://github.com/MrinmoiHossain/HackerRank/tree/master/Linux%20Shell/Bash)
 - [Text Processing](https://github.com/MrinmoiHossain/HackerRank/tree/master/Linux%20Shell/Text%20Processing)
 - Arrays in Bash
 - Grep Sed Awk
+
+
+### Functional Programming
