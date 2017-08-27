@@ -69,7 +69,17 @@
 ## Specialized Skills
 ### Artificial Intelligence
 ### SQL
-### Databases Systems
+
+
+### Databases
+- [Relational Algebra]()
+- [Indexes]()
+- [OLAP]()
+- [Set and Algebra]()
+- [NoSQL - XML, MapReduce]()
+- [Database Normalization]()
+
+### Distributed Systems
 ### Regex
 ### Security
 
