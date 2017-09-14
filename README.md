@@ -105,10 +105,10 @@
 
 
 ### Python
-- Introduction
-- Classes
-- Basic Data Types
-- Strings
+- [Introduction]()
+- [Classes]()
+- [Basic Data Types]()
+- [Strings]()
 - Python Functionals
 - Regex and Parsing
 - XML
