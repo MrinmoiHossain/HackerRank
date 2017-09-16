@@ -105,20 +105,20 @@
 
 
 ### Python
-- [Introduction]()
+- [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Introduction)
+- [Basic Data Types](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Basic%20Data%20Types)
+- [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Strings)
+- [Sets](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Sets)
+- [Math](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Math)
+- [Itertools]()
+- [Collections]()
+- Date and Time
+- Errors and Exceptions
 - [Classes]()
-- [Basic Data Types]()
-- [Strings]()
 - Python Functionals
 - Regex and Parsing
 - XML
 - Closures and Decorators
-- Sets
-- Math
-- Itertools
-- Collections
-- Date and Time
-- Errors and Exceptions
 - Numpy
 
 
