@@ -10,9 +10,9 @@
 	You can follow me on HackerRank at <a href="https://www.hackerrank.com/mokit_hossain201"> mokit_hossain201 </a>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-173-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Language-C/C++/Java/Bash-blue.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-03/09/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-280-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Language-C/C++/Java/Python3/Bash-blue.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-17/09/2017-brightgreen.svg">
 </p>
 
 
