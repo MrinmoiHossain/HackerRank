@@ -123,12 +123,12 @@
 
 
 ### Ruby
-- Introduction
-- Control Structures
-- Arrays & Hashes
-- Enumerables
-- Methods
-- Strings
+- [Introduction]()
+- [Control Structures]()
+- [Arrays & Hashes]()
+- [Enumerables]()
+- [Methods]()
+- [Strings]()
 
 
 ### Linux Shell
