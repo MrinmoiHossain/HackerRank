@@ -10,9 +10,9 @@
 	You can follow me on HackerRank at <a href="https://www.hackerrank.com/mokit_hossain201"> mokit_hossain201 </a>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-285-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-308-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C/C++/Java/Python3/Bash-blue.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-19/09/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-26/09/2017-brightgreen.svg">
 </p>
 
 
@@ -39,7 +39,7 @@
 
 ### DataStructures
 - [Arrays](https://github.com/MrinmoiHossain/HackerRank/tree/master/Data%20Structures/Arrays)
-- Linked Lists
+- [Linked Lists](https://github.com/MrinmoiHossain/HackerRank/tree/master/Data%20Structures/Linked%20Lists)
 - Trees
 - Balanced Trees
 - [Stacks](https://github.com/MrinmoiHossain/HackerRank/tree/master/Data%20Structures/Stacks)
@@ -52,8 +52,8 @@
 
 
 ### Mathematics
-- Fundamentals
-- Number Theory
+- [Fundamentals](https://github.com/MrinmoiHossain/HackerRank/tree/master/Mathematics/Fundamentals)
+- [Number Theory](https://github.com/MrinmoiHossain/HackerRank/tree/master/Mathematics/Number%20Theory)
 - Combinatorics
 - Algebra
 - Geometry
