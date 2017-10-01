@@ -123,7 +123,7 @@
 
 
 ### Ruby
-- [Introduction]()
+- [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Ruby/Introduction)
 - [Control Structures]()
 - [Arrays & Hashes]()
 - [Enumerables]()
