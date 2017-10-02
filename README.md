@@ -124,7 +124,7 @@
 
 ### Ruby
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Ruby/Introduction)
-- [Control Structures]()
+- [Control Structures](https://github.com/MrinmoiHossain/HackerRank/tree/master/Ruby/Control%20Structures)
 - [Arrays & Hashes]()
 - [Enumerables]()
 - [Methods]()
