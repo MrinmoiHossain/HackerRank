@@ -10,9 +10,9 @@
 	You can follow me on HackerRank at <a href="https://www.hackerrank.com/mokit_hossain201"> mokit_hossain201 </a>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-322-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-326-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C/C++/Java/Python3/Bash-blue.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-04/10/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/10/2017-brightgreen.svg">
 </p>
 
 
@@ -125,8 +125,8 @@
 ### Ruby
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Ruby/Introduction)
 - [Control Structures](https://github.com/MrinmoiHossain/HackerRank/tree/master/Ruby/Control%20Structures)
-- [Arrays & Hashes]()
-- [Enumerables]()
+- Arrays & Hashes
+- Enumerables
 - [Methods]()
 - [Strings]()
 
