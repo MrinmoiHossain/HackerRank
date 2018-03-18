@@ -56,7 +56,7 @@
 - [Number Theory](https://github.com/MrinmoiHossain/HackerRank/tree/master/Mathematics/Number%20Theory)
 - Combinatorics
 - Algebra
-- Geometry
+- [Geometry](https://github.com/MrinmoiHossain/HackerRank/tree/master/Mathematics/Geometry)
 - Probability
 - Linear Algebra Foundations
 
@@ -110,16 +110,16 @@
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Strings)
 - [Sets](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Sets)
 - [Math](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Math)
-- [Itertools]()
-- [Collections]()
+- [Itertools](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Itertools)
+- Collections
 - Date and Time
 - Errors and Exceptions
 - Classes
-- Python Functionals
+- [Python Functionals](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Python%20Functionals)
 - Regex and Parsing
 - XML
 - Closures and Decorators
-- Numpy
+- [Numpy](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Numpy)
 
 
 ### Ruby
@@ -127,14 +127,14 @@
 - [Control Structures](https://github.com/MrinmoiHossain/HackerRank/tree/master/Ruby/Control%20Structures)
 - Arrays & Hashes
 - Enumerables
-- [Methods]()
-- [Strings]()
+- Methods
+- Strings
 
 
 ### Linux Shell
 - [Bash](https://github.com/MrinmoiHossain/HackerRank/tree/master/Linux%20Shell/Bash)
 - [Text Processing](https://github.com/MrinmoiHossain/HackerRank/tree/master/Linux%20Shell/Text%20Processing)
-- Arrays in Bash
+- [Arrays in Bash](https://github.com/MrinmoiHossain/HackerRank/tree/master/Linux%20Shell/Arrays%20in%20Bash)
 - Grep Sed Awk
 
 
