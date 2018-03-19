@@ -26,14 +26,14 @@
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Strings)
 - [Sorting](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Sorting)
 - [Search](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Search)
-- [Graph Theory]()
-- [Greedy]()
-- [Dynamic Programming]()
-- [Constructive Algorithms]()
-- [Bit Manipulation]()
-- [Recursion]()
-- [Game Theory]()
-- [NP Complete]()
+- Graph Theory
+- Greedy
+- Dynamic Programming
+- Constructive Algorithms
+- Bit Manipulation
+- Recursion
+- Game Theory
+- NP Complete
 
 
 
@@ -62,25 +62,45 @@
 
 
 ## Tutorials
+### 30 Days of Code
 - [30 Days of Code](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges)
-- [10 Days of Statistics](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics)
+
 ### Cracking the Coding Interview
+
+### 10 Days of Statistics
+- [10 Days of Statistics](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics)
+
+### 10 Days of JavaScript
+
 
 ## Specialized Skills
 ### Artificial Intelligence
+
+
 ### SQL
 
 
 ### Databases
-- [Relational Algebra]()
-- [Indexes]()
-- [OLAP]()
-- [Set and Algebra]()
-- [NoSQL - XML, MapReduce]()
-- [Database Normalization]()
+- Relational Algebra
+- Indexes
+- OLAP
+- Set and Algebra
+- NoSQL - XML, MapReduce
+- Database Normalization
 
 ### Distributed Systems
+
+
 ### Regex
+- [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Regex/Introduction)
+- Character Class
+- Repetitions
+- Grouping and Capturing
+- Backreferences
+- Assertions
+- [Applications](https://github.com/MrinmoiHossain/HackerRank/tree/master/Regex/Applications)
+
+
 ### Security
 
 
@@ -113,7 +133,7 @@
 - [Itertools](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Itertools)
 - Collections
 - Date and Time
-- Errors and Exceptions
+- [Errors and Exceptions](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Errors%20and%20Exceptions)
 - Classes
 - [Python Functionals](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Python%20Functionals)
 - Regex and Parsing
