@@ -124,7 +124,7 @@
 - [Advanced]()
 
 
-### Python
+### Python <img src="https://img.shields.io/badge/Rank-8896-brightgreen.svg">
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Introduction)
 - [Basic Data Types](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Basic%20Data%20Types)
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Strings)
