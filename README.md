@@ -131,8 +131,8 @@
 - [Sets](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Sets)
 - [Math](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Math)
 - [Itertools](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Itertools)
-- Collections
-- Date and Time
+- [Collections](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Collections)
+- [Date and Time](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Date%20and%20Time)
 - [Errors and Exceptions](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Errors%20and%20Exceptions)
 - Classes
 - [Python Functionals](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Python%20Functionals)
