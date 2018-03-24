@@ -124,7 +124,7 @@
 - [Advanced]()
 
 
-### Python
+### Python - Points: 1005, Rank: 5483
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Introduction)
 - [Basic Data Types](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Basic%20Data%20Types)
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Strings)
