@@ -66,11 +66,13 @@
 - [30 Days of Code](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges)
 
 ### Cracking the Coding Interview
+- Cracking the Coding Interview
 
 ### 10 Days of Statistics
 - [10 Days of Statistics](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics)
 
 ### 10 Days of JavaScript
+- [10 Days of JavaScript](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Javascript)
 
 
 ## Specialized Skills
