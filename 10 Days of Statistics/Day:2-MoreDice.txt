@@ -1,7 +1,0 @@
-the values rolled by each die will be different and the two dice have a sum of 
-
-The sum of two dice will be 6 and each die will be different, the way will be:
-{(1, 5), (2, 4), (4, 2), (5, 1)} -> event number is 4
-Total event number is: 36
-
-So, the result is: 4 / 36 = 1 / 9

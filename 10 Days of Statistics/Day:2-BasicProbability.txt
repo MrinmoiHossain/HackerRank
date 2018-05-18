@@ -1,6 +1,0 @@
-In a single toss of 2 pair,
-{(4, 6), (5, 6), (5, 5),  (6, 4), (6, 5), (6, 6)} -> in this cause sum will be more than 9
-Total event number is: 36, and event number is: 6
-So, the probablity: 6 / 36 = 1 / 6
-So, result is: 1 - 1 / 6 = 5 / 6, cause in that cause sum will be almost 9
-

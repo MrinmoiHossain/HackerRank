@@ -107,6 +107,10 @@
 
 
 ## Languages
+
+### C
+- [Introduction]()
+
 ### C++
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Introduction)
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Strings)
