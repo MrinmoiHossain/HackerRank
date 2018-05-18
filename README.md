@@ -109,7 +109,8 @@
 ## Languages
 
 ### C
-- [Introduction]()
+- [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Introduction)
+- [Conditionals and Loops]()
 
 ### C++
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Introduction)
