@@ -142,11 +142,13 @@
 - [Date and Time](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Date%20and%20Time)
 - [Errors and Exceptions](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Errors%20and%20Exceptions)
 - Classes
+- [Built-Ins](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Built-Ins)
 - [Python Functionals](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Python%20Functionals)
 - Regex and Parsing
 - XML
 - Closures and Decorators
 - [Numpy](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Numpy)
+- Debugging
 
 
 ### Ruby
