@@ -110,7 +110,10 @@
 
 ### C
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Introduction)
-- [Conditionals and Loops]()
+- [Conditionals and Loops](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Conditionals%20and%20Loops)
+- [Arrays and Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Arrays%20and%20Strings)
+- [Functions](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Functions)
+- Structs and Enums
 
 ### C++
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Introduction)
