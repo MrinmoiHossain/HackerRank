@@ -62,6 +62,7 @@
 
 
 ## Tutorials
+
 ### 30 Days of Code
 - [30 Days of Code](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges)
 
@@ -76,6 +77,7 @@
 
 
 ## Specialized Skills
+
 ### Artificial Intelligence
 
 
@@ -93,13 +95,13 @@
 ### Distributed Systems
 
 
-### Regex
+### Regex - Challenges Solved: 35/47
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Regex/Introduction)
-- Character Class
-- Repetitions
-- Grouping and Capturing
-- Backreferences
-- Assertions
+- [Character Class](https://github.com/MrinmoiHossain/HackerRank/tree/master/Regex/Character%20Class)
+- [Repetitions](https://github.com/MrinmoiHossain/HackerRank/tree/master/Regex/Repetitions)
+- [Grouping and Capturing](https://github.com/MrinmoiHossain/HackerRank/tree/master/Regex/Grouping%20and%20Capturing)
+- [Backreferences](https://github.com/MrinmoiHossain/HackerRank/tree/master/Regex/Backreferences)
+- [Assertions](https://github.com/MrinmoiHossain/HackerRank/tree/master/Regex/Assertions)
 - [Applications](https://github.com/MrinmoiHossain/HackerRank/tree/master/Regex/Applications)
 
 
@@ -134,7 +136,7 @@
 - [Advanced]()
 
 
-### Python - Points: 1005, Rank: 5483
+### Python | Points: 1005 | Rank: 5483
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Introduction)
 - [Basic Data Types](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Basic%20Data%20Types)
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Strings)
