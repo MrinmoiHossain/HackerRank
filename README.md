@@ -136,7 +136,7 @@
 - [Advanced]()
 
 
-### Python | Points: 1005 | Rank: 5483
+### Python | Challenges Solved: 109/115 | Points: 1005 | Rank: 5483
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Introduction)
 - [Basic Data Types](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Basic%20Data%20Types)
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Strings)
@@ -146,14 +146,14 @@
 - [Collections](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Collections)
 - [Date and Time](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Date%20and%20Time)
 - [Errors and Exceptions](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Errors%20and%20Exceptions)
-- Classes
+- [Classes](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Classes)
 - [Built-Ins](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Built-Ins)
 - [Python Functionals](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Python%20Functionals)
-- Regex and Parsing
-- XML
-- Closures and Decorators
+- [Regex and Parsing](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Regex%20and%20Parsing)
+- [XML](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/XML)
+- [Closures and Decorators](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Closures%20and%20Decorators)
 - [Numpy](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Numpy)
-- Debugging
+- [Debugging](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Debugging)
 
 
 ### Ruby
