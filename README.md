@@ -136,7 +136,7 @@
 - [Advanced]()
 
 
-### Python | Challenges Solved: 109/115 | Points: 1005 | Rank: 5483
+### Python | Challenges Solved: 115/115 | Points: 2305 | Rank: 001
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Introduction)
 - [Basic Data Types](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Basic%20Data%20Types)
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Strings)
