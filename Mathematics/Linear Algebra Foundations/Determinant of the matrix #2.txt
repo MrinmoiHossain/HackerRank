@@ -1,0 +1,4 @@
+5
+40
+
+Note: |2A| = 2^n * |A|, where n is the number of rows (or, equivalently, columns) of A.
