@@ -55,10 +55,10 @@
 - [Fundamentals](https://github.com/MrinmoiHossain/HackerRank/tree/master/Mathematics/Fundamentals)
 - [Number Theory](https://github.com/MrinmoiHossain/HackerRank/tree/master/Mathematics/Number%20Theory)
 - Combinatorics
-- Algebra
+- [Algebra](https://github.com/MrinmoiHossain/HackerRank/tree/master/Mathematics/Algebra)
 - [Geometry](https://github.com/MrinmoiHossain/HackerRank/tree/master/Mathematics/Geometry)
 - Probability
-- Linear Algebra Foundations
+- [Linear Algebra Foundations](https://github.com/MrinmoiHossain/HackerRank/tree/master/Mathematics/Linear%20Algebra%20Foundations)
 
 
 ## Tutorials
