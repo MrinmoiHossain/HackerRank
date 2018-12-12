@@ -27,7 +27,7 @@
 - [Sorting](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Sorting)
 - [Search](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Search)
 - Graph Theory
-- Greedy
+- [Greedy](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Greedy)
 - Dynamic Programming
 - Constructive Algorithms
 - Bit Manipulation
@@ -82,7 +82,12 @@
 
 
 ### SQL
-
+- [Basic Select](https://github.com/MrinmoiHossain/HackerRank/tree/master/SQL/Basic%20Select)
+- [Advanced Select](https://github.com/MrinmoiHossain/HackerRank/tree/master/SQL/Advanced%20Select)
+- [Aggregation](https://github.com/MrinmoiHossain/HackerRank/tree/master/SQL/Aggregation)
+- [Basic Join](https://github.com/MrinmoiHossain/HackerRank/tree/master/SQL/Basic%20Join)
+- [Advanced Join]()
+- [Alternative Queries]()
 
 ### Databases
 - Relational Algebra
