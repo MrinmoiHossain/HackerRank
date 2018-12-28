@@ -10,9 +10,9 @@
 	You can follow me on HackerRank at <a href="https://www.hackerrank.com/mokit_hossain201"> mokit_hossain201 </a>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-330-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-530-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C/C++/Java/Python3/Bash-blue.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-11/10/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-28/12/2018-brightgreen.svg">
 </p>
 
 
@@ -69,8 +69,17 @@
 ### Cracking the Coding Interview
 - Cracking the Coding Interview
 
-### 10 Days of Statistics
-- [10 Days of Statistics](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics)
+### 10 Days of Statistics | Challenges: 27/27 | Points: 27
+- [Day-0-Mean, Median, Mode, Weighed Mean](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics/Day-0)
+- [Day-1-Quartiles, Interquartile Range, Standard Deviation](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics/Day-1)
+- [Day-2-Basic Probability, Compound Event Probability](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics/Day-2)
+- [Day-3-Conditional Probability](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics/Day-3)
+- [Day-4-Binomial Distribution, Geometric Distribution](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics/Day-4)
+- [Day-5-Poisson Distribution, Normal Distribution](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics/Day-5)
+- [Day-6-The Central Limit Theorem](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics/Day-6)
+- [Day-7-Pearson Correlation Coefficient, Spearman's Rank Correlation Coefficient](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics/Day-7)
+- [Day-8-Least Square Regression Line](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics/Day-8)
+- [Day-9-Multiple Linear Regression](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics/Day-9)
 
 ### 10 Days of JavaScript
 - [10 Days of JavaScript](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Javascript)
@@ -141,7 +150,7 @@
 - [Advanced]()
 
 
-### Python | Challenges Solved: 115/115 | Points: 2305 | Rank: 001
+### Python | Challenges: 115/115 | Points: 2305 | Rank: 001
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Introduction)
 - [Basic Data Types](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Basic%20Data%20Types)
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Strings)
