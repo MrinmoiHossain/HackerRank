@@ -10,9 +10,9 @@
 	You can follow me on HackerRank at <a href="https://www.hackerrank.com/mokit_hossain201"> mokit_hossain201 </a>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-530-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-538-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C/C++/Java/Python3/Bash-blue.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-28/12/2018-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-29/12/2018-brightgreen.svg">
 </p>
 
 
@@ -63,8 +63,37 @@
 
 ## Tutorials
 
-### 30 Days of Code
-- [30 Days of Code](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges)
+### 30 Days of Code | Challenges: 28/30 | Points: 28
+- [Day-0-Hello World](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-0)
+- [Day-1-Data Types](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-1)
+- [Day-2-Operators](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-2)
+- [Day-3-Conditional Statements](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-3)
+- [Day-4-Class Vs Instance](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-4)
+- [Day-5-Loops](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-5)
+- [Day-6-Review](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-6)
+- [Day-7-Arrays](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-7)
+- [Day-8-Dictionaries and Maps](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-8)
+- [Day-9-Recursion](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-9)
+- [Day-10-Binary Numbers](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-10)
+- [Day-11-2D Arrays](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-11)
+- [Day-12-Inheritance](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-12)
+- [Day-13-Abstract Classes](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-13)
+- [Day-14-Scope](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-14)
+- [Day-15-Linked List](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-15)
+- [Day-16-Exceptions](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-16)
+- [Day-17-More Exceptions](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-17)
+- [Day-18-Queues and Stacks](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-18)
+- [Day-19-Interfaces](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-19)
+- [Day-20-Sorting](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-20)
+- [Day-21-Generics](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-21)
+- [Day-22-Binary Search Trees
+- [Day-23-BST Level Order Traversal
+- [Day-24-More Linked Lists](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-24)
+- [Day-25-Running Time and Complexity](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-25)
+- [Day-26-Nested Logic](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-26)
+- [Day-27-Testing](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-27)
+- [Day-28-RegEx, Patterns](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-28)
+- [Day-29-Bitwise AND](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-29)
 
 ### Cracking the Coding Interview
 - Cracking the Coding Interview
