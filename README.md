@@ -10,9 +10,9 @@
 	You can follow me on HackerRank at <a href="https://www.hackerrank.com/mokit_hossain201"> mokit_hossain201 </a>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-538-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Language-C/C++/Java/Python3/Bash-blue.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-29/12/2018-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-544-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Language-C/C++/Java/Python3/Bash/JavaScript-blue.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-03/01/2019-brightgreen.svg">
 </p>
 
 
@@ -63,6 +63,9 @@
 
 ## Tutorials
 
+### Interview Preparation Kit
+- Not updated
+
 ### 30 Days of Code | Challenges: 28/30 | Points: 28
 - [Day-0-Hello World](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-0)
 - [Day-1-Data Types](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-1)
@@ -95,8 +98,6 @@
 - [Day-28-RegEx, Patterns](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-28)
 - [Day-29-Bitwise AND](https://github.com/MrinmoiHossain/HackerRank/tree/master/30%20Days%20of%20Code%20Challenges/Day-29)
 
-### Cracking the Coding Interview
-- Cracking the Coding Interview
 
 ### 10 Days of Statistics | Challenges: 27/27 | Points: 27
 - [Day-0-Mean, Median, Mode, Weighed Mean](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics/Day-0)
@@ -110,9 +111,17 @@
 - [Day-8-Least Square Regression Line](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics/Day-8)
 - [Day-9-Multiple Linear Regression](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Statistics/Day-9)
 
-### 10 Days of JavaScript
-- [10 Days of JavaScript](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Javascript)
-
+### 10 Days of JavaScript | Challenges: 11/25 | Points: 11
+- [Day-0-Hello World, Data Types](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Javascript/Day-0)
+- [Day-1-Arithmetic Operators, Functions, Let and Const](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Javascript/Day-1)
+- [Day-2-Conditional Statements: If-Else, Switch and Loops](https://github.com/MrinmoiHossain/HackerRank/tree/master/10%20Days%20of%20Javascript/Day-2)
+- [Day-3-Arrays, Try, Catch and Finally, Throw]()
+- [Day-4
+- [Day-5
+- [Day-6
+- [Day-7
+- [Day-8
+- [Day-9
 
 ## Specialized Skills
 
