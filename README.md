@@ -11,7 +11,9 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-544-brightgreen.svg">
+	<br/>
 	<img src="https://img.shields.io/badge/Language-C/C++/Java/Python3/Bash/JavaScript-blue.svg">
+	<br/>
 	<img src="https://img.shields.io/badge/Latest%20Update-03/01/2019-brightgreen.svg">
 </p>
 
