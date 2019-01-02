@@ -22,19 +22,30 @@ function readLine() {
     return inputString[currentLine++];
 }
 
-
-function reverseString(s) {
+function isPositive(a){
     try{
-        console.log(s.split("").reverse().join(""));
+        if(a < 0)
+            throw "Negative Error";
+        else if(a == 0)
+            throw "Zero Error";
+        else
+            return "YES"
     }catch(e){
-        console.log(e.message);
-        console.log(s);
+        return e;
     }
 }
 
 
 function main() {
-    const s = eval(readLine());
+    const n = +(readLine());
     
-    reverseString(s);
+    for (let i = 0; i < n; i++) {
+        const a = +(readLine());
+      
+        try {
+            console.log(isPositive(a));
+        } catch (e) {
+            console.log(e.message);
+        }
+    }
 }
