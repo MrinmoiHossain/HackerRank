@@ -10,7 +10,7 @@
 	You can follow me on HackerRank at <a href="https://www.hackerrank.com/mokit_hossain201"> mokit_hossain201 </a>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-544-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-545-brightgreen.svg">
 	<br/>
 	<img src="https://img.shields.io/badge/Language-C/C++/Java/Python3/Bash/JavaScript-blue.svg">
 	<br/>
@@ -21,7 +21,7 @@
 
 
 
-## Core CS
+## Problem Solving
 ### Algorithms
 - [Warmup](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Warmup)
 - [Implementation](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Implementation)
@@ -135,8 +135,8 @@
 - [Advanced Select](https://github.com/MrinmoiHossain/HackerRank/tree/master/SQL/Advanced%20Select)
 - [Aggregation](https://github.com/MrinmoiHossain/HackerRank/tree/master/SQL/Aggregation)
 - [Basic Join](https://github.com/MrinmoiHossain/HackerRank/tree/master/SQL/Basic%20Join)
-- [Advanced Join]()
-- [Alternative Queries]()
+- [Advanced Join
+- [Alternative Queries
 
 ### Databases
 - Relational Algebra
@@ -162,7 +162,7 @@
 ### Security
 
 
-## Languages
+## Languages Proficiency
 
 ### C
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Introduction)
@@ -185,9 +185,9 @@
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Java/Strings)
 - [BigNumber](https://github.com/MrinmoiHossain/HackerRank/tree/master/Java/BigNumber)
 - [Data Structures](https://github.com/MrinmoiHossain/HackerRank/tree/master/Java/Data%20Structures)
-- [Object Oriented Programming]()
-- [Exception Handling]()
-- [Advanced]()
+- [Object Oriented Programming
+- [Exception Handling
+- [Advanced
 
 
 ### Python | Challenges: 115/115 | Points: 2305 | Rank: 001
