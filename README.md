@@ -14,7 +14,7 @@
 	<br/>
 	<img src="https://img.shields.io/badge/Language-C/C++/Java/Python3/Bash/JavaScript-blue.svg">
 	<br/>
-	<img src="https://img.shields.io/badge/Latest%20Update-03/01/2019-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-04/01/2019-brightgreen.svg">
 </p>
 
 
@@ -128,9 +128,17 @@
 ## Specialized Skills
 
 ### Artificial Intelligence
+- Bot Building
+- A* Search
+- Alpha Beta Pruning
+- Combinatorial Search
+- Games
+- Statistics and Machine Learning
+- Digital Image Analysis
+- Natural Language Processing
+- Probability & Statistics - Foundations
 
-
-### SQL
+### SQL | Challenges: 45/58 | Points: 700 | Rank: 16393
 - [Basic Select](https://github.com/MrinmoiHossain/HackerRank/tree/master/SQL/Basic%20Select)
 - [Advanced Select](https://github.com/MrinmoiHossain/HackerRank/tree/master/SQL/Advanced%20Select)
 - [Aggregation](https://github.com/MrinmoiHossain/HackerRank/tree/master/SQL/Aggregation)
@@ -147,9 +155,11 @@
 - Database Normalization
 
 ### Distributed Systems
+- Multiple Choice
+- Client Server
+- MapReduce Basics
 
-
-### Regex - Challenges Solved: 35/47
+### Regex | Challenges: 0/0 | Points: 587 | Rank: 1115
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Regex/Introduction)
 - [Character Class](https://github.com/MrinmoiHossain/HackerRank/tree/master/Regex/Character%20Class)
 - [Repetitions](https://github.com/MrinmoiHossain/HackerRank/tree/master/Regex/Repetitions)
@@ -160,7 +170,9 @@
 
 
 ### Security
-
+- Functions
+- Terminology and Concepts
+- Cryptography
 
 ## Languages Proficiency
 
@@ -227,3 +239,11 @@
 
 
 ### Functional Programming
+- Introduction
+- Recursion
+- Functional Structures
+- Memoization and DP
+- Persistent Structures
+- Ad Hoc
+- Parsers
+- Interpreter and Compilers
