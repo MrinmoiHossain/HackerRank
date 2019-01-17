@@ -10,11 +10,11 @@
 	You can follow me on HackerRank at <a href="https://www.hackerrank.com/mokit_hossain201"> mokit_hossain201 </a>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-558-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-566-brightgreen.svg">
 	<br/>
 	<img src="https://img.shields.io/badge/Language-C/C++/Java/Python3/Bash/JavaScript-blue.svg">
 	<br/>
-	<img src="https://img.shields.io/badge/Latest%20Update-14/01/2019-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-17/01/2019-brightgreen.svg">
 </p>
 
 
@@ -30,9 +30,9 @@
 - [Search](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Search)
 - Graph Theory
 - [Greedy](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Greedy)
-- Dynamic Programming
+- [Dynamic Programming](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Dynamic%20Programming)
 - Constructive Algorithms
-- Bit Manipulation
+- [Bit Manipulation](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Bit%20Manipulation)
 - Recursion
 - Game Theory
 - NP Complete
@@ -159,7 +159,7 @@
 - Client Server
 - MapReduce Basics
 
-### Regex | Challenges: 0/0 | Points: 587 | Rank: 1115
+### Regex | Challenges: 40/0 | Points: 587 | Rank: 1115
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Regex/Introduction)
 - [Character Class](https://github.com/MrinmoiHossain/HackerRank/tree/master/Regex/Character%20Class)
 - [Repetitions](https://github.com/MrinmoiHossain/HackerRank/tree/master/Regex/Repetitions)
@@ -176,12 +176,12 @@
 
 ## Languages Proficiency
 
-### C
+### C | Challenges: 20/25 | Points: 380 | Rank: 1494
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Introduction)
 - [Conditionals and Loops](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Conditionals%20and%20Loops)
 - [Arrays and Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Arrays%20and%20Strings)
 - [Functions](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Functions)
-- Structs and Enums
+- [Structs and Enums](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Structs%20and%20Enums)
 
 ### C++
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Introduction)
