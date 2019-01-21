@@ -183,7 +183,7 @@
 - [Functions](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Functions)
 - [Structs and Enums](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Structs%20and%20Enums)
 
-### C++
+### C++ | Challenges: 30/44 | Points: 515 | Rank: 8086
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Introduction)
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Strings)
 - [Classes](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Classes)
@@ -192,7 +192,7 @@
 - [Other Concepts](https://github.com/MrinmoiHossain/HackerRank/tree/master/C%2B%2B/Other%20Concepts)
 
 
-### Java 
+### Java | Challenges: 25/64 | Points: 260.76 | Rank: 38889
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Java/Introduction)
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Java/Strings)
 - [BigNumber](https://github.com/MrinmoiHossain/HackerRank/tree/master/Java/BigNumber)
@@ -222,7 +222,7 @@
 - [Debugging](https://github.com/MrinmoiHossain/HackerRank/tree/master/Python/Debugging)
 
 
-### Ruby
+### Ruby | Challenges: 9/41 | Points: 610 | Rank: 001
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/Ruby/Introduction)
 - [Control Structures](https://github.com/MrinmoiHossain/HackerRank/tree/master/Ruby/Control%20Structures)
 - Arrays & Hashes
@@ -231,7 +231,7 @@
 - Strings
 
 
-### Linux Shell
+### Linux Shell | Challenges: 48/0 | Points: 74 | Rank: 4736
 - [Bash](https://github.com/MrinmoiHossain/HackerRank/tree/master/Linux%20Shell/Bash)
 - [Text Processing](https://github.com/MrinmoiHossain/HackerRank/tree/master/Linux%20Shell/Text%20Processing)
 - [Arrays in Bash](https://github.com/MrinmoiHossain/HackerRank/tree/master/Linux%20Shell/Arrays%20in%20Bash)
