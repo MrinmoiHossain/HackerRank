@@ -10,11 +10,11 @@
 	You can follow me on HackerRank at <a href="https://www.hackerrank.com/mokit_hossain201"> mokit_hossain201 </a>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-568-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-569-brightgreen.svg">
 	<br/>
 	<img src="https://img.shields.io/badge/Language-C/C++/Java/Python3/Bash/JavaScript-blue.svg">
 	<br/>
-	<img src="https://img.shields.io/badge/Latest%20Update-20/01/2019-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/03/2019-brightgreen.svg">
 </p>
 
 
@@ -176,7 +176,7 @@
 
 ## Languages Proficiency
 
-### C | Challenges: 20/25 | Points: 380 | Rank: 1494
+### C | Challenges: 21/25 | Points: 410 | Rank: 1656
 - [Introduction](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Introduction)
 - [Conditionals and Loops](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Conditionals%20and%20Loops)
 - [Arrays and Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Arrays%20and%20Strings)
