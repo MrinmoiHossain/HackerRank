@@ -14,7 +14,7 @@
 	<br/>
 	<img src="https://img.shields.io/badge/Language-C/C++/Java/Python3/Bash/JavaScript/Ruby-blue.svg">
 	<br/>
-	<img src="https://img.shields.io/badge/Latest%20Update-17/08/2019-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-08/17/2019-brightgreen.svg">
 </p>
 
 
