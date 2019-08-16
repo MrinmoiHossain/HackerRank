@@ -4,25 +4,25 @@
 	</a>
 </p>
 <p align="center">
-    Solutions to problems on HackerRank.
+    Problem solutions of HackerRank.
 </p>
 <p align="center">
 	You can follow me on HackerRank at <a href="https://www.hackerrank.com/mokit_hossain201"> mokit_hossain201 </a>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-569-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-588-brightgreen.svg">
 	<br/>
-	<img src="https://img.shields.io/badge/Language-C/C++/Java/Python3/Bash/JavaScript-blue.svg">
+	<img src="https://img.shields.io/badge/Language-C/C++/Java/Python3/Bash/JavaScript/Ruby-blue.svg">
 	<br/>
-	<img src="https://img.shields.io/badge/Latest%20Update-06/03/2019-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-17/08/2019-brightgreen.svg">
 </p>
 
 
 
 
 
-## Problem Solving
-### Algorithms
+## Problem Solving | Challenges: 116/563 | Points: 2364.59 | Rank: 14850
+### Algorithms | Challenges: 90/..
 - [Warmup](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Warmup)
 - [Implementation](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Implementation)
 - [Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/Algorithms/Strings)
@@ -39,10 +39,10 @@
 
 
 
-### DataStructures
+### DataStructures | Challenges: 26/..
 - [Arrays](https://github.com/MrinmoiHossain/HackerRank/tree/master/Data%20Structures/Arrays)
 - [Linked Lists](https://github.com/MrinmoiHossain/HackerRank/tree/master/Data%20Structures/Linked%20Lists)
-- Trees
+- [Trees](https://github.com/MrinmoiHossain/HackerRank/tree/master/Data%20Structures/Trees)
 - Balanced Trees
 - [Stacks](https://github.com/MrinmoiHossain/HackerRank/tree/master/Data%20Structures/Stacks)
 - Queues
@@ -53,10 +53,10 @@
 - Advanced
 
 
-### Mathematics | Challenges: 33/0 | Points: 284.76 | Rank: 7552
+### Mathematics | Challenges: 39/0 | Points: 514.76 | Rank: 3399
 - [Fundamentals](https://github.com/MrinmoiHossain/HackerRank/tree/master/Mathematics/Fundamentals)
 - [Number Theory](https://github.com/MrinmoiHossain/HackerRank/tree/master/Mathematics/Number%20Theory)
-- Combinatorics
+- [Combinatorics](https://github.com/MrinmoiHossain/HackerRank/tree/master/Mathematics/Combinatorics)
 - [Algebra](https://github.com/MrinmoiHossain/HackerRank/tree/master/Mathematics/Algebra)
 - [Geometry](https://github.com/MrinmoiHossain/HackerRank/tree/master/Mathematics/Geometry)
 - Probability
@@ -127,16 +127,16 @@
 
 ## Specialized Skills
 
-### Artificial Intelligence
+### Artificial Intelligence | Challenges: 3/.. | Points: 14 | Rank: 50053
 - Bot Building
 - A* Search
 - Alpha Beta Pruning
 - Combinatorial Search
 - Games
-- Statistics and Machine Learning
+- [Statistics and Machine Learning](https://github.com/MrinmoiHossain/HackerRank/tree/master/Artificial%20Intelligence/Statistics%20and%20Machine%20Learning)
 - Digital Image Analysis
 - Natural Language Processing
-- Probability & Statistics - Foundations
+- [Probability & Statistics - Foundations](https://github.com/MrinmoiHossain/HackerRank/tree/master/Artificial%20Intelligence/Probability%20%26%20Statistics%20-%20Foundations)
 
 ### SQL | Challenges: 45/58 | Points: 700 | Rank: 16393
 - [Basic Select](https://github.com/MrinmoiHossain/HackerRank/tree/master/SQL/Basic%20Select)
