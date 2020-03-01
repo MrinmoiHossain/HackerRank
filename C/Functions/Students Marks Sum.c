@@ -21,6 +21,7 @@ int marks_summation(int* marks, int number_of_students, char gender)
 }
 
 int main()
+    
 {
     int number_of_students;
     char gender;
