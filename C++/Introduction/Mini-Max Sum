@@ -1,0 +1,22 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+int main()
+{
+    long int n=5,a[n],s=0,i;
+    
+    for(i=0;i<n;i++)
+    {
+        cin>>a[i];             //Accessing array elements
+        
+        s+=a[i];                //summing-up array elements
+    }
+    
+    sort(a,a+n);               //Sorting array using sort() function.
+    
+    long int min=s-a[n-1];    //minimum element
+    long int max=s-a[0];      //maximum element
+
+    cout<<min<<" "<<max;
+    return 0;
+}
