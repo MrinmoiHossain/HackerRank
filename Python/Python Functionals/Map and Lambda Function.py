@@ -2,11 +2,17 @@ cube = lambda x: x ** 3
 
 
 def fibonacci(n):
-    List = [0, 1]
-    for i in range(2, n):
-        List.append(List[i-1] + List[i-2])
-        
-    return(List[0:n])
+    List = []
+    for i in range(0,n):
+        if i==0:
+            List.append(0)
+            continue
+        if i==1:
+            List.append(1)
+            continue
+        else:            
+            List.append(List[i-1]+List[i-2])
+    return List
 
 
 if __name__ == '__main__':
