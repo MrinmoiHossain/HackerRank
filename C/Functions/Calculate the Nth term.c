@@ -13,7 +13,7 @@ int find_nth_term(int n, int a, int b, int c)
     else if(n == 3)
         return c;
     else
-        return (n - 1) + (n - 2) + (n - 3);
+    return find_nth_term(n - 1,a,b,c) + find_nth_term(n - 2,a,b,c) + find_nth_term(n - 3,a,b,c);
 }
 
 int main()
